@@ -9,7 +9,11 @@
 
 
 ## Habilidades
- ![Python](https://img.shields.io/badge/logo-python-yellow?logo=python)</br>![SQL](https://img.shields.io/badge/language-SQL-blue?logo=sql)![Tableau](https://img.shields.io/badge/tool-Tableau-blue?logo=tableau) ![R](https://img.shields.io/badge/language-R-blue?logo=r)![Modelos de Regresión](https://img.shields.io/badge/Modelos-de%20Regresi%C3%B3n-orange)![Visualización de Datos](https://img.shields.io/badge/Visualizaci%C3%B3n-de%20Datos-blueviolet)
+ ![Python](https://img.shields.io/badge/logo-python-yellow?logo=python)
+ ![SQL](https://img.shields.io/badge/language-SQL-blue?logo=sql)
+ ![Tableau](https://img.shields.io/badge/tool-Tableau-blue?logo=tableau) 
+ ![R](https://img.shields.io/badge/language-R-blue?logo=r)
+ ![Modelos de Regresión](https://img.shields.io/badge/Modelos-de%20Regresi%C3%B3n-orange)![Visualización de Datos](https://img.shields.io/badge/Visualizaci%C3%B3n-de%20Datos-blueviolet)
  
 
 ### Correo Electronico 
