@@ -8,4 +8,4 @@
 - 🧑‍🎓 Actualmente estoy cursando una Ingenieria en Ciencia de Datos.
 
 ### Correo Electronico 
-[Correo](br872788@gmail.com) 
+Correo: br872788@gmail.com
