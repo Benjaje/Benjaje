@@ -7,5 +7,9 @@
 - ⚡ Me gusta comprender el por que de las cosas.
 - 🧑‍🎓 Actualmente estoy cursando una Ingenieria en Ciencia de Datos.
 
+
+## Habilidades
+ !.[Python](https://img.shields.io/badge/logo-python-yellow?logo=python)
+
 ### Correo Electronico 
 Correo: br872788@gmail.com
