@@ -9,7 +9,7 @@
 
 
 ## Habilidades
- ![Python](https://img.shields.io/badge/lLanguage-python-yellow?logo=python)</br>
+ ![Python](https://img.shields.io/badge/Language-python-yellow?logo=python)</br>
  ![SQL](https://img.shields.io/badge/Language-SQL-blue?logo=microsoft-sql-server)</br>
  ![Tableau](https://img.shields.io/badge/tool-Tableau-blue?logo=tableau) </br>
  ![R](https://img.shields.io/badge/Language-R-blue?logo=r)</br>
