@@ -10,7 +10,7 @@
 
 ## Habilidades
  ![Python](https://img.shields.io/badge/logo-python-yellow?logo=python)</br>
- ![SQL](https://img.shields.io/badge/language-SQL-blue?logo=sql&logoColor=white)</br>
+ ![SQL](https://img.shields.io/badge/language-SQL-blue?logo=microsoft-sql-server)</br>
  ![Tableau](https://img.shields.io/badge/tool-Tableau-blue?logo=tableau) </br>
  ![R](https://img.shields.io/badge/language-R-blue?logo=r)</br>
  ![Modelos de Regresión](https://img.shields.io/badge/Modelos-de%20Regresi%C3%B3n-orange)</br>
