@@ -9,7 +9,7 @@
 
 
 ## Habilidades
- !.[Python](https://img.shields.io/badge/logo-python-yellow?logo=python)
+ !.[Python](https://img.shields.io/badge/logo-python-yellow?logo=python)</br>
 
 ### Correo Electronico 
 Correo: br872788@gmail.com
