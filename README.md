@@ -1,6 +1,6 @@
 ### Bienvenido 👋
 
-- 🔭 En busqueda de trabajo como ingeniero de datos jr o cientifico de datos Jr.
+- 🔭 Llevo 11 meses en la posicion de Data Engineer Intern.
 - 🌱 Actualmente estoy creciento en el area de Ingenieria de Datos.
 - 👯 Estoy buscando trabajar con empresas que me ayuden a crecer.
 - 🧑‍💻 Me encantan las matematicas y la tecnologia.
