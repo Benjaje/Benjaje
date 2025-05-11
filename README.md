@@ -1,11 +1,11 @@
 ### Bienvenido 👋
 
-- 🔭 En busqueda de trabajo como cientifico de datos Jr.
-- 🌱 Actualmente estoy creciento en el area de Ciencia de Datos.
+- 🔭 En busqueda de trabajo como ingeniero de datos jr o cientifico de datos Jr.
+- 🌱 Actualmente estoy creciento en el area de Ingenieria de Datos.
 - 👯 Estoy buscando trabajar con empresas que me ayuden a crecer.
 - 🧑‍💻 Me encantan las matematicas y la tecnologia.
 - ⚡ Me gusta comprender el por que de las cosas.
-- 🧑‍🎓 Actualmente estoy cursando una Ingenieria en Ciencia de Datos.
+- 🧑‍🎓 Actualmente se utilizar y utilizo sql, python, un poco de spark y tambien servicios de la nube de AWS como Glue, S3, DMS entre otros.
 
 
 ## Habilidades:
