@@ -9,9 +9,16 @@
 
 
 ## Principales Herramientas y Conocmientos:
-Lenguajes: Pytho, Apache Spark, Sql
-Conocimientos: Modelado de Datos, procedimientos de Etls, Arquitecturas de Datos, Programación Orientada a objetos
-Plataformas, Herramientas y Servicios: Aws Cloud 9, Aws Glue, Aws S3, Aws DMS, TablePlus, Github, Gitlab, Visual Studio Code, contenedores de Docker y Terraform.
+Lenguajes: 
+Python, Apache Spark, Sql
+
+
+Conocimientos: 
+Modelado de Datos, procedimientos de Etls, Arquitecturas de Datos, Programación Orientada a objetos
+
+
+Plataformas, Herramientas y Servicios:
+Aws Cloud 9, Aws Glue, Aws S3, Aws DMS, TablePlus, Github, Gitlab, Visual Studio Code, contenedores de Docker y Terraform.
 
  
 
