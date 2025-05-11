@@ -8,13 +8,11 @@
 - 🧑‍🎓 Actualmente se utilizar y utilizo sql, python, un poco de spark y tambien servicios de la nube de AWS como Glue, S3, DMS entre otros.
 
 
-## Habilidades:
- ![Python](https://img.shields.io/badge/Language-python-yellow?logo=python)</br>
-  ![Apache Spark](https://img.shields.io/badge/Language-python-yellow?logo=python)</br>
- ![SQL](https://img.shields.io/badge/Language-SQL-blue?logo=microsoft-sql-server)</br>
- ![Tableau](https://img.shields.io/badge/tool-Tableau-blue?logo=tableau) </br>
- ![Modelos de Regresión](https://img.shields.io/badge/Modelos-de%20Regresi%C3%B3n-orange)</br>
- ![Visualización de Datos](https://img.shields.io/badge/Visualizaci%C3%B3n-de%20Datos-blueviolet)
+## Principales Herramientas y Conocmientos:
+Lenguajes: Pytho, Apache Spark, Sql
+Conocimientos: Modelado de Datos, procedimientos de Etls, Arquitecturas de Datos, Programación Orientada a objetos
+Plataformas, Herramientas y Servicios: Aws Cloud 9, Aws Glue, Aws S3, Aws DMS, TablePlus, Github, Gitlab, Visual Studio Code, contenedores de Docker y Terraform.
+
  
 
 ### Correo Electronico 
