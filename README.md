@@ -10,9 +10,9 @@
 
 ## Habilidades:
  ![Python](https://img.shields.io/badge/Language-python-yellow?logo=python)</br>
+  ![Apache Spark](https://img.shields.io/badge/Language-python-yellow?logo=python)</br>
  ![SQL](https://img.shields.io/badge/Language-SQL-blue?logo=microsoft-sql-server)</br>
  ![Tableau](https://img.shields.io/badge/tool-Tableau-blue?logo=tableau) </br>
- ![R](https://img.shields.io/badge/Language-R-blue?logo=r)</br>
  ![Modelos de Regresión](https://img.shields.io/badge/Modelos-de%20Regresi%C3%B3n-orange)</br>
  ![Visualización de Datos](https://img.shields.io/badge/Visualizaci%C3%B3n-de%20Datos-blueviolet)
  
